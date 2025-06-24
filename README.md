@@ -1,6 +1,6 @@
 I'm Yusuke Nakada (a.k.a nuskey, Annulus Games), .NET/Unity OSS developer, game developer. 
 
-I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my previous libraries at [@annulusgames](https://github/annulusgames). I'm currently publishing libraries at [@nuskey8](https://github/nuskey8).
+I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my previous libraries at [@annulusgames](https://github.com/annulusgames). I'm currently publishing libraries at [@nuskey8](https://github.com/nuskey8).
 
 ### Works
 
