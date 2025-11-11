@@ -11,6 +11,7 @@ I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my
 * [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
 * [Csv-CSharp](https://github.com/nuskey8/Csv-CSharp)
 * [NRandom](https://github.com/nuskey8/NRandom)
+* [UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)
 
 #### Services
 
