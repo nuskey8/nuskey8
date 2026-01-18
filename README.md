@@ -21,6 +21,6 @@ I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my
 
 ### Sponsorship
 
-If you want to support me, please donate on Ko-fi (I will also start Github Sponsors soon).
+If you want to support me, please donate on GitHub Sponsors or Ko-fi.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31G5N7M)
