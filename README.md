@@ -6,12 +6,16 @@ I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my
 
 #### OSS
 
-* [LitMotion](https://github.com/annulusgames/LitMotion)
-* [Alchemy](https://github.com/annulusgames/Alchemy)
-* [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
-* [Csv-CSharp](https://github.com/nuskey8/Csv-CSharp)
-* [NRandom](https://github.com/nuskey8/NRandom)
-* [UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)
+- Unity
+  * [LitMotion](https://github.com/annulusgames/LitMotion)
+  * [Alchemy](https://github.com/annulusgames/Alchemy)
+  * [UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)
+- .NET (C#)
+  * [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
+  * [Csv-CSharp](https://github.com/nuskey8/Csv-CSharp)
+  * [NRandom](https://github.com/nuskey8/NRandom)
+- Rust
+  * [zerompk](https://github.com/nuskey8/zerompk)
 
 #### Services
 
