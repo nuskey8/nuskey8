@@ -2,28 +2,33 @@ I'm Yusuke Nakada (a.k.a nuskey, Annulus Games), .NET/Unity OSS developer, game 
 
 I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my previous libraries at [@annulusgames](https://github.com/annulusgames). I'm currently publishing libraries at [@nuskey8](https://github.com/nuskey8).
 
-### Works
+## Works
 
-#### OSS
+### OSS
 
-- Unity
-  * [LitMotion](https://github.com/annulusgames/LitMotion)
-  * [Alchemy](https://github.com/annulusgames/Alchemy)
-  * [UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)
-- .NET (C#)
-  * [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
-  * [Csv-CSharp](https://github.com/nuskey8/Csv-CSharp)
-  * [NRandom](https://github.com/nuskey8/NRandom)
-- Rust
-  * [zerompk](https://github.com/nuskey8/zerompk)
+#### Unity
 
-#### Services
+* [LitMotion](https://github.com/annulusgames/LitMotion)
+* [Alchemy](https://github.com/annulusgames/Alchemy)
+* [UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)
+
+#### .NET (C#)
+
+* [Lua-CSharp](https://github.com/nuskey8/Lua-CSharp)
+* [Csv-CSharp](https://github.com/nuskey8/Csv-CSharp)
+* [NRandom](https://github.com/nuskey8/NRandom)
+
+#### Rust
+
+* [zerompk](https://github.com/nuskey8/zerompk)
+
+### Services
 
 * [ase2ttf](https://ase2ttf.com/)
 * [MinimalMD](https://minimalmd.app/)
 * [VJCode](https://vjcode.dev/)
 
-### Sponsorship
+## Sponsorship
 
 If you want to support me, please donate on GitHub Sponsors or Ko-fi.
 
