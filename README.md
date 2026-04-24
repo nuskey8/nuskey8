@@ -21,6 +21,7 @@ I am mainly focusing on developing OSS libraries for .NET/Unity. You can find my
 #### Rust
 
 * [zerompk](https://github.com/nuskey8/zerompk)
+* [rmquickjs](https://github.com/nuskey8/rmquickjs)
 
 ### Services
 
